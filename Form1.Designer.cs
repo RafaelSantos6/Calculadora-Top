@@ -30,10 +30,10 @@
         {
             components = new System.ComponentModel.Container();
             sidebarPanel = new Panel();
-            button4 = new Button();
-            button3 = new Button();
-            button2 = new Button();
-            button1 = new Button();
+            btnTemp = new Button();
+            btnMedia = new Button();
+            btnIMC = new Button();
+            btnCalcSimples = new Button();
             btnMenu = new Button();
             TimerSidebar = new System.Windows.Forms.Timer(components);
             btn1 = new Button();
@@ -63,10 +63,10 @@
             // sidebarPanel
             // 
             sidebarPanel.BackColor = SystemColors.ActiveBorder;
-            sidebarPanel.Controls.Add(button4);
-            sidebarPanel.Controls.Add(button3);
-            sidebarPanel.Controls.Add(button2);
-            sidebarPanel.Controls.Add(button1);
+            sidebarPanel.Controls.Add(btnTemp);
+            sidebarPanel.Controls.Add(btnMedia);
+            sidebarPanel.Controls.Add(btnIMC);
+            sidebarPanel.Controls.Add(btnCalcSimples);
             sidebarPanel.Dock = DockStyle.Left;
             sidebarPanel.Location = new Point(0, 0);
             sidebarPanel.Name = "sidebarPanel";
@@ -74,46 +74,47 @@
             sidebarPanel.TabIndex = 0;
             sidebarPanel.Paint += sidebarPanel_Paint;
             // 
-            // button4
+            // btnTemp
             // 
-            button4.Dock = DockStyle.Top;
-            button4.Location = new Point(0, 69);
-            button4.Name = "button4";
-            button4.Size = new Size(131, 23);
-            button4.TabIndex = 3;
-            button4.Text = "C º Para F °";
-            button4.UseVisualStyleBackColor = true;
-            button4.Click += button4_Click;
+            btnTemp.Dock = DockStyle.Top;
+            btnTemp.Location = new Point(0, 69);
+            btnTemp.Name = "btnTemp";
+            btnTemp.Size = new Size(131, 23);
+            btnTemp.TabIndex = 3;
+            btnTemp.Text = "C º Para F °";
+            btnTemp.UseVisualStyleBackColor = true;
+            btnTemp.Click += button4_Click;
             // 
-            // button3
+            // btnMedia
             // 
-            button3.Dock = DockStyle.Top;
-            button3.Location = new Point(0, 46);
-            button3.Name = "button3";
-            button3.Size = new Size(131, 23);
-            button3.TabIndex = 2;
-            button3.Text = "Media";
-            button3.UseVisualStyleBackColor = true;
+            btnMedia.Dock = DockStyle.Top;
+            btnMedia.Location = new Point(0, 46);
+            btnMedia.Name = "btnMedia";
+            btnMedia.Size = new Size(131, 23);
+            btnMedia.TabIndex = 2;
+            btnMedia.Text = "Media";
+            btnMedia.UseVisualStyleBackColor = true;
             // 
-            // button2
+            // btnIMC
             // 
-            button2.Dock = DockStyle.Top;
-            button2.Location = new Point(0, 23);
-            button2.Name = "button2";
-            button2.Size = new Size(131, 23);
-            button2.TabIndex = 1;
-            button2.Text = "IMC";
-            button2.UseVisualStyleBackColor = true;
+            btnIMC.Dock = DockStyle.Top;
+            btnIMC.Location = new Point(0, 23);
+            btnIMC.Name = "btnIMC";
+            btnIMC.Size = new Size(131, 23);
+            btnIMC.TabIndex = 1;
+            btnIMC.Text = "IMC";
+            btnIMC.UseVisualStyleBackColor = true;
+            btnIMC.Click += btnIMC_Click;
             // 
-            // button1
+            // btnCalcSimples
             // 
-            button1.Dock = DockStyle.Top;
-            button1.Location = new Point(0, 0);
-            button1.Name = "button1";
-            button1.Size = new Size(131, 23);
-            button1.TabIndex = 0;
-            button1.Text = "Calculadora Simples";
-            button1.UseVisualStyleBackColor = true;
+            btnCalcSimples.Dock = DockStyle.Top;
+            btnCalcSimples.Location = new Point(0, 0);
+            btnCalcSimples.Name = "btnCalcSimples";
+            btnCalcSimples.Size = new Size(131, 23);
+            btnCalcSimples.TabIndex = 0;
+            btnCalcSimples.Text = "Calculadora Simples";
+            btnCalcSimples.UseVisualStyleBackColor = true;
             // 
             // btnMenu
             // 
@@ -367,11 +368,11 @@
         #endregion
 
         private Panel sidebarPanel;
-        private Button button1;
+        private Button btnCalcSimples;
         private Button btnMenu;
-        private Button button4;
-        private Button button3;
-        private Button button2;
+        private Button btnTemp;
+        private Button btnMedia;
+        private Button btnIMC;
         private System.Windows.Forms.Timer TimerSidebar;
         private Button btn1;
         private Button btn2;
