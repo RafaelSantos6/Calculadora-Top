@@ -1,22 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rafael.santos11\\Documents\\Calculadora-Top\\",
+  "WorkspaceRootPath": "C:\\Users\\rafael.santos11\\Desktop\\Calculadora\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8052EDC3-D5AC-49AD-8467-F3313D3F127F}|Calculadora\u002BTop.csproj|c:\\users\\rafael.santos11\\documents\\calculadora-top\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8052EDC3-D5AC-49AD-8467-F3313D3F127F}|Calculadora\u002BTop.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8052EDC3-D5AC-49AD-8467-F3313D3F127F}|Calculadora\u002BTop.csproj|c:\\users\\rafael.santos11\\documents\\calculadora-top\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8052EDC3-D5AC-49AD-8467-F3313D3F127F}|Calculadora\u002BTop.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8052EDC3-D5AC-49AD-8467-F3313D3F127F}|Calculadora\u002BTop.csproj|c:\\users\\rafael.santos11\\documents\\calculadora-top\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8052EDC3-D5AC-49AD-8467-F3313D3F127F}|Calculadora\u002BTop.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8052EDC3-D5AC-49AD-8467-F3313D3F127F}|Calculadora\u002BTop.csproj|c:\\users\\rafael.santos11\\documents\\calculadora-top\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8052EDC3-D5AC-49AD-8467-F3313D3F127F}|Calculadora\u002BTop.csproj|c:\\users\\rafael.santos11\\desktop\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8052EDC3-D5AC-49AD-8467-F3313D3F127F}|Calculadora\u002BTop.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8052EDC3-D5AC-49AD-8467-F3313D3F127F}|Calculadora\u002BTop.csproj|c:\\users\\rafael.santos11\\desktop\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8052EDC3-D5AC-49AD-8467-F3313D3F127F}|Calculadora\u002BTop.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +18,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\rafael.santos11\\Documents\\Calculadora-Top\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.santos11\\Desktop\\Calculadora\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\rafael.santos11\\Documents\\Calculadora-Top\\Form1.cs",
+              "ToolTip": "C:\\Users\\rafael.santos11\\Desktop\\Calculadora\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAnwK8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T22:59:38.904Z",
-              "IsPinned": true,
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form2.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\rafael.santos11\\Documents\\Calculadora-Top\\Form2.cs",
-              "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\rafael.santos11\\Documents\\Calculadora-Top\\Form2.cs [Projeto]",
-              "RelativeToolTip": "Form2.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T00:59:57.213Z",
-              "IsPinned": true,
-              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\rafael.santos11\\Documents\\Calculadora-Top\\Form2.cs",
-              "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\rafael.santos11\\Documents\\Calculadora-Top\\Form2.cs",
-              "RelativeToolTip": "Form2.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIAwwBUAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T01:00:25.95Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\rafael.santos11\\Documents\\Calculadora-Top\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rafael.santos11\\Desktop\\Calculadora\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\rafael.santos11\\Documents\\Calculadora-Top\\Form1.cs [Projeto]",
+              "ToolTip": "C:\\Users\\rafael.santos11\\Desktop\\Calculadora\\Form1.cs [Projeto]",
               "RelativeToolTip": "Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T22:59:25.944Z",
